@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **MERN Stack and Django**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Python, Java, Javascript and ReactJS**
 
 - 📫 How to reach me **sachinchoudhary0203@gmail.com**
 
