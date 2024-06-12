@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
-- 💬 Ask me about **Python, Java, Javascript and ReactJS**
+- 💬 Ask me about **Python, Java and MERN**
 
 - 📫 How to reach me **sachinchoudhary0203@gmail.com**
 
