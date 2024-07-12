@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack and Django**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and Flutter**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
