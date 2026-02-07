@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **MERN Stack and Django**
 
-- 🌱 I’m currently learning **Django and Flutter**
+- 🌱 I’m currently learning **Spring Boot, Django and Flutter**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Spring Boot and Web Development Projects**
 
-- 🤝 I’m looking for help with **Machine Learning Projects**
-
-- 💬 Ask me about **Python, Java and MERN**
+- 💬 Ask me about **Java, Python and MERN**
 
 - 📫 How to reach me **sachinchoudhary0203@gmail.com**
 
